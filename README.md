@@ -1,4 +1,4 @@
 # gitHackPUC
 Hacktoberfest Projects 
 
-Teste
+Repositório para submissão de arquivos diversos para projeto piloto.
